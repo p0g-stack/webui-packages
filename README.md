@@ -1,5 +1,7 @@
 # webui-packages
 
+> **Moved.** The plugin packages now live in [p0g-stack/p0g at `pkgs/webui/`](https://github.com/p0g-stack/p0g/tree/main/pkgs/webui), with this history imported. This repository is archived; commits pinned by existing consumers stay available.
+
 Plugin implementations for the WebUI platform (`flutter-webui`): one
 `<plugin>_webui` package per stock plugin, so an app keeps calling
 `url_launcher`, `file_selector`, `share_plus` and the rest unchanged. The same
